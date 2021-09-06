@@ -1,0 +1,11 @@
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\BD.exe.config
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\BD.exe
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\BD.pdb
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\EntityFramework.dll
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\EntityFramework.xml
+C:\Users\kelvin\Desktop\work\C#\BD\BD\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\kelvin\Desktop\work\C#\BD\BD\obj\x64\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\kelvin\Desktop\work\C#\BD\BD\obj\x64\Debug\BD.csproj.CopyComplete
+C:\Users\kelvin\Desktop\work\C#\BD\BD\obj\x64\Debug\BD.exe
+C:\Users\kelvin\Desktop\work\C#\BD\BD\obj\x64\Debug\BD.pdb
