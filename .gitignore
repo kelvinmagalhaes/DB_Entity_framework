@@ -1,0 +1,9 @@
+
+.vs/DB_Entity_framework/v16/.suo
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+BD/BD/obj/Debug*
+BD/BD/obj/Release*
+BD/BD/obj/x64/Release*
+BD/BD/obj/Debug/BD.csproj.AssemblyReference.cache
