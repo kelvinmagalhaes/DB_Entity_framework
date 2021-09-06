@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 .vs/DB_Entity_framework/v16/.suo
 .vs/ProjectSettings.json
 .vs/slnx.sqlite
@@ -7,6 +5,3 @@
 BD/BD/obj/Debug*
 BD/BD/obj/Release*
 BD/BD/obj/x64/Release*
-BD/BD/obj/Debug/BD.csproj.AssemblyReference.cache
-=======
->>>>>>> 661dd4211737b1394e663c93d021b12b2692a3d3
